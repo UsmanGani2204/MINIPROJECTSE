@@ -292,7 +292,7 @@ Record:1
 
 ********************************
 Enter GR number
-21810558
+21810686
 Enter password
 pass1
 Enter name
@@ -369,7 +369,7 @@ Record:1
 name=Rehan
 Department=IT
 Rollno=232051
-Grno=21810558
+Grno=21810686
 contact no:9922334455
 Maths:80.0
 Chemistry:90.0
@@ -441,7 +441,7 @@ Do you want to continue 1/0:
 Enter your choice
 4
 Enter GR number of Student to modify ::
-21810558
+21810686
 Record found
 
 ********************************
@@ -595,13 +595,13 @@ Record:3
 
 ********************************
 Enter GR number
-21810999
+21810422
 Enter password
 pass5
 Enter name
 Rehan Qureshi
 Enter Department
-Civil
+Mech
 Enter Roll number
 232051
 Enter contact no:
@@ -654,9 +654,9 @@ Record:3
 ********************************
 
 name=Rehan Qureshi
-Department=Civil
+Department=Mech
 Rollno=232051
-Grno=21810999
+Grno=21810422
 contact no:9955223388
 Maths:95.0
 Chemistry:98.0
@@ -705,9 +705,9 @@ Record:3
 ********************************
 
 name=Rehan Qureshi
-Department=Civil
+Department=Mech
 Rollno=232051
-Grno=21810999
+Grno=21810422
 contact no:9955223388
 Maths:95.0
 Chemistry:98.0
@@ -756,15 +756,15 @@ press 1 to continue
 Enter your choice
 2
 Enter your gr no to see profile ::
-21810999
+21810422
 Record found!!!!
 Enter your password ::
 pass5
 
 name=Rehan Qureshi
-Department=Civil
+Department=Mech
 Rollno=232051
-Grno=21810999
+Grno=21810422
 contact no:9955223388
 Maths:95.0
 Chemistry:98.0
